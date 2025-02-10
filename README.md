@@ -31,10 +31,8 @@
 
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=chamikacc&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikacc&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chamikacc&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
- 
-  
 </p>
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
