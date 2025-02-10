@@ -38,9 +38,9 @@
 </p>
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamikacc&theme=algolia" alt="chamikacc" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamikacc&theme=algolia" alt="chamikacc" width="500" />
  
-   <img src="https://github-contributor-stats.vercel.app/api?username=ChamikaCc&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+   <img src="https://github-contributor-stats.vercel.app/api?username=ChamikaCc&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Contributor Stats" width="500" />
 </p>
 
 
