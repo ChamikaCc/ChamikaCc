@@ -34,13 +34,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikacc&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=chamikacc&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
  
-   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRyMnl0azk5Yjk3bGcxdHIzZGNmMmdwNzVnMXJodWFyY3R6OXNtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  
 </p>
 
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamikacc&theme=algolia" alt="chamikacc" width="500" />
  
    <img src="https://github-contributor-stats.vercel.app/api?username=ChamikaCc&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Contributor Stats" width="500" />
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRyMnl0azk5Yjk3bGcxdHIzZGNmMmdwNzVnMXJodWFyY3R6OXNtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 
 
